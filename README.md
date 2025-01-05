@@ -1,1 +1,2 @@
-# Predictive-Modelling-in-R---HDB-Resale-Prices
+# Predictive Modelling in R : HDB Resale Prices
+This report aims to analyze the factors influencing Housing and Development Board (HDB) resale prices in Singapore using R Studio for predictive modeling. By examining a curated dataset of 2021 HDB resale transactions, the study identifies key determinants of resale prices and evaluates the performance of various predictive models to determine the most effective price predictor.
